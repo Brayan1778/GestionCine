@@ -1,6 +1,32 @@
 Manifest-Version: 1.0
 Created-By: Maven JAR Plugin 3.3.0
 Build-Jdk-Spec: 17
+Class-Path: commons-io-2.11.0.jar spring-boot-starter-data-mongodb-3.2.5
+ .jar spring-boot-starter-3.2.5.jar spring-boot-starter-logging-3.2.5.ja
+ r logback-classic-1.4.14.jar logback-core-1.4.14.jar log4j-to-slf4j-2.2
+ 1.1.jar log4j-api-2.21.1.jar jul-to-slf4j-2.0.13.jar jakarta.annotation
+ -api-2.1.1.jar snakeyaml-2.2.jar mongodb-driver-sync-4.11.2.jar bson-4.
+ 11.2.jar mongodb-driver-core-4.11.2.jar bson-record-codec-4.11.2.jar sp
+ ring-data-mongodb-4.2.5.jar spring-tx-6.1.6.jar spring-context-6.1.6.ja
+ r spring-beans-6.1.6.jar spring-expression-6.1.6.jar spring-data-common
+ s-3.2.5.jar spring-boot-starter-validation-3.2.5.jar tomcat-embed-el-10
+ .1.20.jar hibernate-validator-8.0.1.Final.jar jakarta.validation-api-3.
+ 0.2.jar jboss-logging-3.5.3.Final.jar classmate-1.6.0.jar spring-boot-s
+ tarter-thymeleaf-3.2.5.jar thymeleaf-spring6-3.1.2.RELEASE.jar spring-b
+ oot-starter-web-3.2.5.jar spring-boot-starter-json-3.2.5.jar jackson-da
+ tabind-2.15.4.jar jackson-annotations-2.15.4.jar jackson-core-2.15.4.ja
+ r jackson-datatype-jdk8-2.15.4.jar jackson-datatype-jsr310-2.15.4.jar j
+ ackson-module-parameter-names-2.15.4.jar spring-boot-starter-tomcat-3.2
+ .5.jar tomcat-embed-core-10.1.20.jar tomcat-embed-websocket-10.1.20.jar
+  spring-web-6.1.6.jar micrometer-observation-1.12.5.jar micrometer-comm
+ ons-1.12.5.jar spring-webmvc-6.1.6.jar spring-aop-6.1.6.jar thymeleaf-l
+ ayout-dialect-3.3.0.jar groovy-4.0.21.jar groovy-extensions-2.1.0.jar t
+ hymeleaf-expression-processor-3.2.0.jar thymeleaf-3.1.2.RELEASE.jar ogn
+ l-3.3.4.jar javassist-3.29.0-GA.jar attoparser-2.0.7.RELEASE.jar unbesc
+ ape-1.1.6.RELEASE.jar slf4j-api-2.0.13.jar spring-boot-devtools-3.2.5.j
+ ar spring-boot-3.2.5.jar spring-boot-autoconfigure-3.2.5.jar spring-cor
+ e-6.1.6.jar spring-jcl-6.1.6.jar
 Implementation-Title: Cine-Parcial
 Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.app.parcial.CineParcialApplication
 
