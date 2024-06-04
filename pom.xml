@@ -74,7 +74,7 @@
                 <archive>
                     <manifest>
                         <addClasspath>true</addClasspath>
-                        <mainClass>com.example.MainClass</mainClass>
+                        <mainClass>com.app.parcial</mainClass>
                     </manifest>
                 </archive>
             </configuration>

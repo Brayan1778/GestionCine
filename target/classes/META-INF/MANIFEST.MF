@@ -27,6 +27,6 @@ Class-Path: commons-io-2.11.0.jar spring-boot-starter-data-mongodb-3.2.5
  e-6.1.6.jar spring-jcl-6.1.6.jar
 Implementation-Title: Cine-Parcial
 Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.example.MainClass
+Main-Class: com.app.parcial
 Created-By: Maven Integration for Eclipse
 
